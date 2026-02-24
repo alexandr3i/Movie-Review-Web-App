@@ -1,5 +1,4 @@
 # 🎬 Movie Review Web App – Generația Tech Project
-
 This is a web project developed as part of the **Generația Tech** program. It is a PHP application connected to a SQL Server database, designed to display and filter movies and genres.
 
 ---
@@ -58,7 +57,7 @@ This is a web project developed as part of the **Generația Tech** program. It i
 
 ## 🧑‍💻 Author
 
-**Alexandru**  
+**Andrei-Alexandru Angheluță**  
 🎓 Project developed during the **Generația Tech – Web Development** program  
 📅 July 2025
 
