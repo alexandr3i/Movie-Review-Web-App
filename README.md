@@ -28,7 +28,7 @@ This is a web project developed as part of the **Generația Tech** program. It i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alexandr3i/Project-Web-Development-GeneratiaTech.git
+   git clone https://github.com/alexandr3i/Movie-Review-Web-App
    ```
 
 2. Move the `demo/` folder to your XAMPP `htdocs` directory:
